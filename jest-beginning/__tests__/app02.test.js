@@ -15,7 +15,7 @@ describe('Organizing the code', () => {
         expect(a + b).not.toBe(0)
       }
     }
-  });
+  })
 
   test('adding floating point numbers', () => {
     const value = 0.1 + 0.2
